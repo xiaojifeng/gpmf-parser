@@ -1,0 +1,2 @@
+C:/Users/xiao/Desktop/gpmf-parser-master/build/CMakeFiles/gpmf-parser.dir
+C:/Users/xiao/Desktop/gpmf-parser-master/build/CMakeFiles/ALL_BUILD.dir
